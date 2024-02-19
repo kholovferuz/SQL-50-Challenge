@@ -1,3 +1,4 @@
+# easy
 SELECT 
 	DISTINCT(author_id) as id
 FROM 

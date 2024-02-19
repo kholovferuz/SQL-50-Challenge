@@ -1,3 +1,4 @@
+# easy
 SELECT 
 	name 
 FROM 

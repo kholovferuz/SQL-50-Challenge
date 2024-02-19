@@ -1,3 +1,4 @@
+# easy
 SELECT
 	product_id
 FROM 

@@ -1,3 +1,4 @@
+# easy
 SELECT 
 	eu.unique_id, 
     emp.name 
