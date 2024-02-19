@@ -1,8 +1,8 @@
 # easy
 SELECT 
 	name, 
-    population, 
-    area 
+    	population, 
+    	area 
 FROM
 	world
 WHERE 
